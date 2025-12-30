@@ -11,6 +11,6 @@ Gives hints if the guess is too high or too low
 
 Counts attempts and displays success message
 
-Technologies:
+### Technologies:
 
 HTML,CSS AND JAVASCRIPT
